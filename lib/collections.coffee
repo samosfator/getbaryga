@@ -1,0 +1,1 @@
+@Barygas = new Mongo.Collection 'barygas'
